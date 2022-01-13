@@ -1,4 +1,3 @@
-
 def count_batteries_by_usage(cycles):
   l,m,h=0,0,0
   
@@ -25,5 +24,6 @@ def test_bucketing_by_number_of_cycles():
   print("Done counting :)")
 
 
+  
 if __name__ == '__main__':
   test_bucketing_by_number_of_cycles()
